@@ -1,7 +1,7 @@
 {
   "name": "graceful-motion",
   "version": "0.0.0",
-  "description": "Implements physics based limits on the change of a position to achive graceful motion.",
+  "description": "Implements physics based limits on the change of a position to achieve graceful motion.",
   "homepage": "",
   "repository": "voltrevo/graceful-motion",
   "author": {

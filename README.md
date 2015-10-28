@@ -1,5 +1,5 @@
 # graceful-motion [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Implements physics based limits on the change of a position to achive graceful motion.
+> Implements physics based limits on the change of a position to achieve graceful motion.
 
 
 ## Install
